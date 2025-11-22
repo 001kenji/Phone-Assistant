@@ -168,12 +168,12 @@ Your intelligent voice assistant that transforms how you interact with your Andr
 ## 📱 Screenshots
 | Main Interface | Settings & Customization | Assistant Bubble |
 |:--------------:|:------------------------:|:----------------:|
-| <img src="screenshots/main-interface.png" width="200"> | <img src="screenshots/settings-page.png" width="200"> | <img src="screenshots/assistant-bubble.png" width="200"> |
+| <img src="screenshots/main-interface.jpg" width="200"> | <img src="screenshots/settings-page.jpg" width="200"> | <img src="screenshots/assistant-bubble.jpg" width="200"> |
 | *Feature-rich main screen* | *Personalize your experience* | *Always-available voice control* |
 
 | Text Scanner | 
 |:----------:|
-| <img src="screenshots/text-scanner.png" width="200"> |
+| <img src="screenshots/text-scanner.jpg" width="200"> |
 | *OCR from camera* |
 - Main interface with feature carousel
 - Settings page with customization options
