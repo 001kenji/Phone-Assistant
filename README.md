@@ -1,3 +1,8 @@
+
+## 📦 Main Repository Source Code
+
+👉 **[View the Source Code on GitHub](https://github.com/001kenji/Assistant-AI-Code)**
+
 # 🎙️ Kenji Assistant - AI Voice Assistant for Android
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
